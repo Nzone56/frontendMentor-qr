@@ -27,7 +27,7 @@ body{
     display: block;
     width: 80%;
     position: absolute;
-    top:20%;
+    top:21%;
     border-radius: 4%;
     box-shadow: 5px 5px 20px var(--Grayish-blue);
 }
